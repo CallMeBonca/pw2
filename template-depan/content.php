@@ -1,8 +1,6 @@
 
 
-    <!-- Page Content -->
-    row -->
-
+    
         <div class="row">
 
             <!-- Blog Entries Column -->
