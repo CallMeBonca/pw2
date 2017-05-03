@@ -7,7 +7,7 @@ require_once 'View.php';
 class KonfigurasiUI extends View
 {
 	
-	public function tampilLengkap()
+	public function tampilForm()
 	{
 		include_once 'pages/konfigurasi.php';
 		$this->end();
