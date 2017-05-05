@@ -1,10 +1,10 @@
 <?php 
 
-require_once 'View.php';
+require_once 'view.php';
 /**
 * 
 */
-class KonfigurasiUI extends View
+class berandaUI extends view
 {
 	
 	public function tampilForm()
@@ -13,7 +13,6 @@ class KonfigurasiUI extends View
 		$this->end();
 	}
 }
-
 
 
  ?>
