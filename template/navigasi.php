@@ -12,7 +12,7 @@
     <title>Modern Business - Start Bootstrap Template</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="template/css/bootstrap.min.template/css" rel="stylesheet">
+    <link href="template/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="template/css/modern-business.css" rel="stylesheet">
